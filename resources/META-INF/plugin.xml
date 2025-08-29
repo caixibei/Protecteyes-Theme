@@ -7,71 +7,66 @@
     <idea-version since-build="203"/>
     <description><![CDATA[
         <html>
-        <h2>🌿 Protecteyes Theme - 智能护眼主题 / Eye-Protection Theme</h2>
-        Make coding more comfortable and your eyes more relaxed!</p>
+            <h2>🌿 Protecteyes Theme</h2>
+            <p>
+                Make coding more comfortable and your eyes more relaxed!
+            </p>
+            <div>
+                <img src="https://raw.githubusercontent.com/caixibei/Protecteyes-Theme/refs/heads/master/example/example.webp"/>
+            </div>
+            <p>Long hours of coding causing eye strain and dryness?<br/>
+            <b>Protecteyes Theme</b> is an eye-protection theme plugin designed specifically for developers. It combines soft color science with comfortable visual experience to help you code efficiently while caring for your eye health.</p>
 
-        <p>长时间编码，眼睛容易干涩疲劳？<br/>
-        <b>Protecteyes Theme</b> 是一款专为开发者设计的护眼主题插件，融合柔和的色彩科学与舒适的视觉体验，助你高效编码的同时，呵护双眼健康。</p>
+            <h3>✨ Features:</h3>
+            <ul>
+                <li>
+                    <b>Low Blue Light Soft Colors:</b> Uses visually optimized low-saturation colors to reduce blue light stimulation and alleviate eye fatigue from prolonged screen time.
+                </li>
+                <li>
+                    <b>Multi-level Contrast Optimization:</b> Key code elements are clearly highlighted while non-critical information is gently toned down, improving code readability without glare.
+                </li>
+                <li>
+                    <b>Global Eye-Protection Mode:</b> Not just the editor, but the entire IDE interface including sidebars, toolbars, and dialogs are uniformly color-tuned for a consistent and comfortable visual experience.
+                </li>
+                <li>
+                    <b>Multi-language Syntax Highlighting Support:</b> Perfectly supports mainstream languages like Java, Python, JavaScript, HTML/CSS, with clear syntax hierarchy and logical structure.
+                </li>
+                <li>
+                    <b>Light Mode:</b> Provides light eye-protection mode to adapt to different lighting environments and personal preferences.
+                </li>
+            </ul>
 
-        <img src="https://raw.githubusercontent.com/caixibei/Protecteyes-Theme/refs/heads/master/example/example.webp"/>
+            <h3>🎯 Target Users:</h3>
+            <ul>
+                <li>Professional developers who code for long hours daily</li>
+                <li>Students and programming enthusiasts who self-learn</li>
+                <li>Users sensitive to visual fatigue or already suffering from dry eye syndrome</li>
+                <li>Programming professionals who pursue both efficiency and health</li>
+            </ul>
 
-        <p>Long hours of coding causing eye strain and dryness?<br/>
-        <b>Protecteyes Theme</b> is an eye-protection theme plugin designed specifically for developers. It combines soft color science with comfortable visual experience to help you code efficiently while caring for your eye health.</p>
+            <h3>🛠 Installation & Usage:</h3>
+            <ol>
+                <li>In JetBrains IDE, go to Plugins Marketplace</li>
+                <li>Search for <b>Protecteyes Theme</b> and install it</li>
+                <li>Restart IDE, go to Settings → Appearance & Behavior → Theme and select <b>Protecteyes Theme Light</b></li>
+            </ol>
 
-        <h3>✨ 主题特点 / Features:</h3>
-        <ul>
-            <li><b>低蓝光柔和配色 / Low Blue Light Soft Colors</b>: 采用经过视觉优化的低饱和度色彩，减少蓝光刺激，缓解长时间注视屏幕的疲劳感。<br/>
-            Uses visually optimized low-saturation colors to reduce blue light stimulation and alleviate eye fatigue from prolonged screen time.</li>
+            <blockquote>
+                <p>「We believe that good tools should not only be powerful but also humanized. Protecteyes Theme is more than just a theme—it's a care for developers' eyes.」</p>
+            </blockquote>
 
-            <li><b>多层次对比度优化 / Multi-level Contrast Optimization</b>: 关键代码元素清晰突出，非关键信息温和淡化，提升代码可读性而不刺眼。<br/>
-            Key code elements are clearly highlighted while non-critical information is gently toned down, improving code readability without glare.</li>
-
-            <li><b>全局护眼模式 / Global Eye-Protection Mode</b>: 不仅编辑器，包括侧边栏、工具栏、对话框等整个 IDE 界面都经过统一调色，视觉体验一致舒适。<br/>
-            Not just the editor, but the entire IDE interface including sidebars, toolbars, and dialogs are uniformly color-tuned for a consistent and comfortable visual experience.</li>
-
-            <li><b>多语言语法高亮支持 / Multi-language Syntax Highlighting Support</b>: 完美适配 Java、Python、JavaScript、HTML/CSS 等主流语言，语法层次分明，逻辑一目了然。<br/>
-            Perfectly supports mainstream languages like Java, Python, JavaScript, HTML/CSS, with clear syntax hierarchy and logical structure.</li>
-
-            <li><b>暗色/浅色双模式 / Dark/Light Dual Modes</b>: 提供浅色护眼模式，适应不同光线环境与个人偏好。<br/>
-            Provides light eye-protection mode to adapt to different lighting environments and personal preferences.</li>
-        </ul>
-
-        <h3>🎯 适用人群 / Target Users:</h3>
-        <ul>
-            <li>每天长时间编码的职业开发者 / Professional developers who code for long hours daily</li>
-            <li>学生、自学编程的爱好者 / Students and programming enthusiasts who self-learn</li>
-            <li>对视觉疲劳敏感或已有干眼症的用户 / Users sensitive to visual fatigue or already suffering from dry eye syndrome</li>
-            <li>追求高效与健康并重的编程工作者 / Programming professionals who pursue both efficiency and health</li>
-        </ul>
-
-        <h3>🛠 安装与使用 / Installation & Usage:</h3>
-        <ol>
-            <li>在 JetBrains IDE 中进入插件市场（Plugins）<br/>
-            In JetBrains IDE, go to Plugins Marketplace</li>
-            <li>搜索 <b>Protecteyes Theme</b> 并安装<br/>
-            Search for <b>Protecteyes Theme</b> and install it</li>
-            <li>重启 IDE，在 Settings → Appearance & Behavior → Theme 中选择 <b>Protecteyes Theme </b><br/>
-            Restart IDE, go to Settings → Appearance & Behavior → Theme and select <b>Protecteyes Theme Light</b></li>
-        </ol>
-
-        <blockquote>
-            <p>「我们相信，好的工具不仅要强大，更要人性化。Protecteyes Theme 不只是主题，更是一份对开发者双眼的关怀。」<br/>
-            "We believe that good tools should not only be powerful but also humanized. Protecteyes Theme is more than just a theme—it's a care for developers' eyes."</p>
-        </blockquote>
-
-        <p>💡 <b>让 Protecteyes Theme 陪伴你的每一个编程时刻，代码不止于高效，更源于舒适。</b><br/>
-        <b>Let Protecteyes Theme accompany every moment of your programming. Code is not only about efficiency but also about comfort.</b></p>
+            <p>💡 <b>Let Protecteyes Theme accompany every moment of your programming. Code is not only about efficiency but also about comfort.</b></p>
         </html>
     ]]></description>
     <change-notes><![CDATA[
         <html>
-        <h3>版本 1.0.0 / Version 1.0.0</h3>
-        <ul>
-            <li>初始版本发布 / Initial version release</li>
-            <li>包含浅色护眼主题 / Includes light eye-protection themes</li>
-            <li>支持主流编程语言语法高亮 / Supports syntax highlighting for mainstream programming languages</li>
-            <li>全面优化IDE界面各组件视觉效果 / Comprehensive visual optimization for all IDE interface components</li>
-        </ul>
+            <h3>Version 1.0.0</h3>
+            <ul>
+                <li>Initial version release</li>
+                <li>Includes light eye-protection themes</li>
+                <li>Supports syntax highlighting for mainstream programming languages</li>
+                <li>Comprehensive visual optimization for all IDE interface components</li>
+            </ul>
         </html>
     ]]></change-notes>
     <depends>com.intellij.modules.platform</depends>
